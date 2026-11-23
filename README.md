@@ -1,1 +1,0 @@
-# Pszich-teszt-deduplikalt
